@@ -74,7 +74,3 @@ Suggestions and collaborations are more than welcome.🙂 Please open an issue o
 ### Deleting
 - Iris
 - Wine
-
-# Video Solutions
-
-Video tutorials of data scientists working through the above exercises:
